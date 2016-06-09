@@ -8,6 +8,8 @@ This is a standard web application that provides a simple organizer for the user
 4. MongoDB
 5. WebPack
 6. Python
+7. Flask Web Framework
+8. PyMongo
 
 ## Requirements
 1. Python 2.7
