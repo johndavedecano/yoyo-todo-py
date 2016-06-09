@@ -1,0 +1,30 @@
+.todo-lists {
+	min-height: 400px;
+	max-height: 500px;
+	overflow: scroll;
+}
+.item:first-child {
+	margin-top: 5px;
+}
+.item {
+	border:solid 1px #ccc;
+	margin-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.item h4 {
+	line-height: 34px;
+	margin: 0px;
+	padding:0px;
+	font-size: 14px;
+	display: block;
+	text-overflow: ellipsis;
+}
+.item .btn {
+	margin-left:10px;
+}
+.clear {
+	clear: both;
+}
