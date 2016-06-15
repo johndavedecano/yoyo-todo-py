@@ -1,6 +1,8 @@
 # API Org App
 This is a standard web application that provides a simple organizer for the user to store notes and TODOs.
 
+http://johndavedecano.me/2016/06/15/developing-a-todo-application-with-reactjs-and-python-flask/
+
 ##Technology Stack
 1. NodeJS + NPM
 2. ReactJS + Redux
